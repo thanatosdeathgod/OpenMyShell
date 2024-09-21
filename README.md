@@ -25,7 +25,3 @@ OpenMyShell is a Go-based tool designed to quickly create custom OpenVPN configu
 
 
 This will create `myconfig.ovpn` with an embedded reverse shell payload targeting `192.168.1.10` on port `4444`.
-
-## Contributing
-
-Feel free to contribute by submitting issues or pull requests.
